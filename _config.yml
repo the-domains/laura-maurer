@@ -1,6 +1,7 @@
 name: Laura Maurer
 favicon: null
 layout_spectrum: 0.16576956654898822
+typography_spectrum: 0.9341700884979218
 cta:
   domain: null
   bucket: null
@@ -14,8 +15,13 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
-  brandStrength: 0
+  brandColors:
+    - '#131319'
+    - '#ffffff'
+    - '#82433d'
+    - '#c5c6c2'
+    - '#ae928a'
+  brandStrength: 0.6875
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.5
@@ -23,4 +29,3 @@ purpose:
   - name: follow
     item: null
     url: null
-typography_spectrum: 0.9341700884979218
