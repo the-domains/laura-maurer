@@ -3,20 +3,20 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2015-10-16T22:55:13.974Z'
-dateModified: '2015-10-16T22:50:36.627Z'
+datePublished: '2015-10-16T23:05:34.507Z'
+dateModified: '2015-10-16T23:05:09.619Z'
 title: Dreamy Dresses
+sourcePath: _posts/2015-10-16-dreamy-dresses.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-10-16-dreamy-dresses.md
-published: true
 url: dreamy-dresses/index.html
 _type: Article
 
