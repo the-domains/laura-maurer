@@ -1,6 +1,6 @@
 name: Laura Maurer
 favicon: null
-layout_spectrum: 0.8
+layout_spectrum: 0.16576956654898822
 cta:
   domain: null
   bucket: null
@@ -23,3 +23,4 @@ purpose:
   - name: follow
     item: null
     url: null
+typography_spectrum: 0.9341700884979218
