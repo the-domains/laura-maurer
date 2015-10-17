@@ -23,7 +23,7 @@ color:
     - '#791d2c'
   brandStrength: 1
   lightness: 1
-  saturation: 0
+  saturation: 1
   rhythmicContrast: 0
 purpose:
   - name: follow
