@@ -4,7 +4,7 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'http://www.floranuit.com/blogs/news/72035523-november-10-flora-nuit-x-yummie'
 inLanguage: en
-starred: false
+starred: true
 keywords:
   - shopify
   - yummie
@@ -17,8 +17,8 @@ keywords:
   - loungewear
   - shop
 description: 'What are you doing November 10th? Tasting delicious holiday cocktails and shopping the new loungewear line from Yummie by Heather Thomson? Ok, good, just making sure. '
-datePublished: '2015-10-20T19:28:25.514Z'
-dateModified: '2015-10-20T19:28:12.753Z'
+datePublished: '2015-10-20T20:06:58.101Z'
+dateModified: '2015-10-20T20:06:47.110Z'
 author: []
 related: []
 app_links: []
