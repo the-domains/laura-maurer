@@ -17,7 +17,7 @@ keywords:
   - loungewear
   - shop
 description: 'What are you doing November 10th? Tasting delicious holiday cocktails and shopping the new loungewear line from Yummie by Heather Thomson? Ok, good, just making sure. '
-datePublished: '2015-10-20T20:06:58.101Z'
+datePublished: '2015-10-20T20:06:59.182Z'
 dateModified: '2015-10-20T20:06:47.110Z'
 author: []
 related: []
