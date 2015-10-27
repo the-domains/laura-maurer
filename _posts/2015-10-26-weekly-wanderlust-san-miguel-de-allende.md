@@ -2,10 +2,10 @@
 author: []
 related: []
 publisher:
-  url: 'http://www.brokesnob.com'
   name: BrokeSnob
-  favicon: 'http://www.brokesnob.com/wp-content/themes/wp_dolce5-v1.0/panel/img/favicon.ico'
   domain: www.brokesnob.com
+  url: 'http://www.brokesnob.com'
+  favicon: 'http://www.brokesnob.com/wp-content/themes/wp_dolce5-v1.0/panel/img/favicon.ico'
 keywords:
   - '1542'
   - guacamole
@@ -22,13 +22,15 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.brokesnob.com/weekly-wanderlust-san-miguel-de-allende/'
 title: 'Weekly Wanderlust: San Miguel de Allende'
-datePublished: '2015-10-26T20:41:59.388Z'
-dateModified: '2015-10-26T20:39:25.848Z'
+datePublished: '2015-10-27T21:44:42.120Z'
+dateModified: '2015-10-27T13:20:11.672Z'
 sourcePath: _posts/2015-10-26-weekly-wanderlust-san-miguel-de-allende.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
 _context: 'http://schema.org'
 _type: MediaObject
 
