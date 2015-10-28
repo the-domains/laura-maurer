@@ -1,6 +1,6 @@
 name: Laura Maurer
 favicon: null
-layout_spectrum: 0.81982
+layout_spectrum: 0.4985
 typography_spectrum: 0.4955
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#791d2c'
   brandStrength: 0
   lightness: 1
-  saturation: 1
+  saturation: 0
   rhythmicContrast: 0
 purpose:
   - name: follow
